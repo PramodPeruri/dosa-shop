@@ -13,3 +13,9 @@
 - Dosa Batter
 - Egg
 - Karam
+
+## Panner Dosa
+- Dosa Batter
+- Panner
+- carrot
+- butter
